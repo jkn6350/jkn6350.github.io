@@ -1,0 +1,28 @@
+
+html * {
+  font-family: monospace;
+  margin: 2%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+}
+
+.textfield {
+  color: ;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 14px;
+  background-color: #31664b;
+  margin: 2%;
+  padding: 10%;
+}
