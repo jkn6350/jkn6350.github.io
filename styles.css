@@ -18,11 +18,22 @@ p {
 }
 
 .textfield {
-  color: ;
+  color: black;
   text-align: center;
   font-family: fantasy;
   font-size: 14px;
   background-color: #31664b;
   margin: 2%;
   padding: 10%;
+}
+
+.column {
+  flex: 50%;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.row {
+  display: flex;
+  ;
 }
